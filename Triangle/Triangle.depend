@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494837605 source:d:\programing\c++ training\triangle\main.cpp
+	<iostream>
+	"Triangle.h"
+
+1494837267 d:\programing\c++ training\triangle\include\triangle.h
+	<iostream>
+
+1494837464 source:d:\programing\c++ training\triangle\src\triangle.cpp
+	"Triangle.h"
+

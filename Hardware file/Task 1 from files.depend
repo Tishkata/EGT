@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1494933590 source:d:\programing\c++ training\task 1 from files\main.cpp
+	<iostream>
+	<fstream>
+	"Tool.h"
+	"Everything.h"
+	<cstdlib>
+	<iomanip>
+
+1494933175 source:d:\programing\c++ training\task 1 from files\src\tool.cpp
+	"Tool.h"
+
+1494933149 d:\programing\c++ training\task 1 from files\include\tool.h
+	<iostream>
+	<cstring>
+	<string>
+
+1494933492 d:\programing\c++ training\task 1 from files\include\everything.h
+	<fstream>
+	"Tool.h"
+	<cstdlib>
+	<iomanip>
+
