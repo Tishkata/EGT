@@ -21,3 +21,36 @@
 	<cstdlib>
 	<iomanip>
 
+1495704105 source:d:\programing\c++ training\hardware file\src\tool.cpp
+	"Tool.h"
+
+1495699764 d:\programing\c++ training\hardware file\include\tool.h
+	<iostream>
+	<cstring>
+	<string>
+
+1495705456 source:d:\programing\c++ training\hardware file\main.cpp
+	<iostream>
+	<fstream>
+	"Tool.h"
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1495699022 d:\programing\c++ training\hardware file\include\everything.h
+	<fstream>
+	"Tool.h"
+	<cstdlib>
+	<iomanip>
+
+1495699764 d:\programing\c++ training\hardware file\tool.h
+	<iostream>
+	<cstring>
+	<string>
+
+1495699022 d:\programing\c++ training\hardware file\everything.h
+	<fstream>
+	"Tool.h"
+	<cstdlib>
+	<iomanip>
+

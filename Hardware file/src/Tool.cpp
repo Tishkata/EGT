@@ -23,14 +23,7 @@ void Tool::setRecords(int records)
 
 void Tool::setName(string name)
 {
-    const char* secondName = name.data();
-    int length = name.size();
-    if(length > 9)
-    {
-        length = 9;
-    }
-    strncpy(this->name, secondName, length);
-    this->name[length] = '\0';
+    this->name = name;
 }
 
 void Tool::setCount(int count)
@@ -47,14 +40,17 @@ const int Tool::getRecords()const
 {
     return this->records;
 }
+
 const string Tool::getName()const
 {
     return this->name;
 }
+
 const int Tool::getCount()const
 {
     return this->count;
 }
+
 const float Tool::getCost()const
 {
     return this->cost;
@@ -66,6 +62,7 @@ void Tool::printInformation()
     cout << "Name: " << getName() << endl;
     cout << "Count: " << getCount() << endl;
     cout << "Cost: " << getCost() << endl;
+    cout << endl;
 }
 
 

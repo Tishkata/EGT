@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1493973313 source:d:\programing\the olympics\main.cpp
+	<iostream>
+	<Athletes.h>
+	<Disciplines.h>
+	<Starts.h>
+	<Type.h>
+	<vector>
+
+1493968534 source:d:\programing\the olympics\src\athletes.cpp
+	"Athletes.h"
+
+1493968547 d:\programing\the olympics\include\athletes.h
+	<string>
+	<iostream>
+
+1493968468 source:d:\programing\the olympics\src\disciplines.cpp
+	"Disciplines.h"
+
+1493968483 d:\programing\the olympics\include\disciplines.h
+	<string>
+	<iostream>
+
+1494319213 source:d:\programing\the olympics\src\starts.cpp
+	"Starts.h"
+
+1494319480 d:\programing\the olympics\include\starts.h
+	<string>
+	<iostream>
+	"Athletes.h"
+	<vector>
+
+1493969437 d:\programing\the olympics\include\type.h
+
